@@ -1,0 +1,34 @@
+{
+  "os": "Linux-6.8.0-52-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.10",
+  "startedAt": "2025-08-11T02:30:39.980633Z",
+  "program": "workspace/20250811.ipynb",
+  "email": "0224seorin@gmail.com",
+  "root": "/workspace",
+  "host": "7c582c3c259f",
+  "executable": "/usr/bin/python",
+  "cpu_count": 48,
+  "cpu_count_logical": 96,
+  "gpu": "NVIDIA A40",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "214748364800",
+      "used": "29794893824"
+    }
+  },
+  "memory": {
+    "total": "540644196352"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A40",
+      "memoryTotal": "48305799168",
+      "cudaCores": 10752,
+      "architecture": "Ampere",
+      "uuid": "GPU-659357c3-f2b6-55ab-a716-a11ed6cd2085"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "fzzz48wnfljgob68nh8zfkhsm8znsysf"
+}
